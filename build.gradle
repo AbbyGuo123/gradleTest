@@ -1,0 +1,21 @@
+plugins {
+    // Apply the java plugin to add support for Java
+    id 'java'
+	id 'idea'
+    // Apply the application plugin to add support for building an application
+    id 'application'
+}
+
+repositories {
+    jcenter()  
+}
+
+dependencies {
+    compile 'com.google.guava:guava:21.0'  
+    testCompile 'junit:junit:4.12'  
+	testCompile 'org.mockito:mockito-core:2.0.57-beta' 	
+}
+
+
+
+mainClassName = 'App'

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mengdd.examples.mockito.HelloWorldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-12T13:11:46" hostname="ZHA-ITA123-W10" time="0.226">
+  <properties/>
+  <testcase name="testSayHelloWhenThereIsRobot" classname="com.mengdd.examples.mockito.HelloWorldTest" time="0.226"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
